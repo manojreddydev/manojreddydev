@@ -1,106 +1,170 @@
 <h1 align="center">Hi 👋, I'm Mandala Manoj Reddy</h1>
 
 <h3 align="center">
-AI & Full Stack Developer | Building AI-powered Software Products
+AI & Full Stack Developer | Building AI-powered Products & Scalable Web Applications
 </h3>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech Artificial Intelligence & Machine Learning Student  
 - 💻 Full Stack Developer Intern @ Quantum Wave  
-- 🤖 Building AI-powered SaaS applications and intelligent automation systems  
-- 🌱 Currently improving Full Stack Development, AI Agents & System Design  
-- 🎯 Interested in Software Engineering, AI Engineering, and Product Development  
+- 🤖 Building AI-powered SaaS platforms and intelligent automation systems  
+- ⚡ Interested in AI Agents, Full Stack Engineering, and Product Development  
+- 🌱 Currently improving System Design, Backend Engineering & AI Applications  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Programming Languages
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
 
-#### Frontend
+---
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 
-#### Backend & Database
+---
+
+### Backend & Database
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-#### Tools
+---
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 RecoverFlow AI
 
-AI-powered SaaS platform for subscription recovery automation.
+## 🔹 RecoverFlow AI
+
+AI-powered SaaS platform designed for subscription recovery automation and intelligent customer engagement.
 
 **Tech Stack:**  
-React.js • TypeScript • Express.js • PostgreSQL • Drizzle ORM
+React.js • TypeScript • Express.js • PostgreSQL • Drizzle ORM • Tailwind CSS
 
-Features:
+**Features**
 - AI-powered recovery workflows
 - Customer engagement automation
+- Modern SaaS dashboard
 - Scalable backend architecture
-- Modern dashboard interface
+- API-driven development
+
+🔗 GitHub: Coming Soon  
+🌐 Live Demo: Coming Soon
 
 ---
 
-### 🔹 SageCall AI
+## 🔹 SageCall AI
 
-AI virtual receptionist platform for businesses.
+AI-powered virtual receptionist platform helping businesses automate customer communication.
 
 **Tech Stack:**  
-FastAPI • React.js • PostgreSQL • LLM APIs
+FastAPI • React.js • PostgreSQL • Python • LLM APIs
 
-Features:
+**Features**
 - AI customer conversations
-- Appointment management
-- Business automation
-- Intelligent response generation
+- Appointment scheduling automation
+- Business management dashboard
+- Context-aware AI responses
+- Customer data management
+
+🔗 GitHub: Coming Soon  
+🌐 Live Demo: Coming Soon
 
 ---
 
-### 🔹 Suppio - AI Resume Analyzer
+## 🔹 FairGo
 
-AI-based resume analysis platform.
+Peer-to-peer vehicle rental marketplace connecting vehicle owners and renters.
+
+**Tech Stack:**  
+Flutter • FastAPI • PostgreSQL • REST APIs
+
+**Features**
+- Vehicle listing system
+- Host and customer workflows
+- Booking management
+- Marketplace architecture
+- Mobile-first experience
+
+🔗 GitHub: Coming Soon  
+🌐 Live Demo: Coming Soon
+
+---
+
+## 🔹 KUHEDU Gamified Exam Portal
+
+Full-stack educational platform developed during my internship at Quantum Wave.
+
+**Tech Stack:**  
+React.js • FastAPI • PostgreSQL • Python
+
+**Features**
+- Online examination management
+- User authentication system
+- Role-based access control
+- Student progress tracking
+- Rewards, badges & leaderboard system
+- REST API development
+
+🔗 GitHub: Coming Soon
+
+---
+
+## 🔹 Suppio - AI Resume Analyzer
+
+AI-powered resume analysis and document intelligence platform.
 
 **Tech Stack:**  
 FastAPI • React.js • OCR • LLM APIs
 
-Features:
+**Features**
 - Resume parsing
 - OCR document processing
-- AI feedback generation
+- AI-based resume analysis
+- Automated improvement suggestions
+- Interactive dashboard
+
+🔗 GitHub: Coming Soon
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Full Stack Developer Intern  
-**Quantum Wave**
+## Full Stack Developer Intern  
+### Quantum Wave
 
-Built KUHEDU Gamified Exam Portal:
+Developed KUHEDU Gamified Exam Portal
 
-- Online examination platform
-- Authentication & role-based access
-- Gamification features
-- REST API development
+Worked on:
+- Full stack application development
+- Frontend components
+- Backend API development
+- Database integration
+- Testing & debugging
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojreddydev&show_icons=true)
 
@@ -108,13 +172,14 @@ Built KUHEDU Gamified Exam Portal:
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/manoj-reddy-9400b1314
-- Email: mandalamanojreddy16@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/manoj-reddy-9400b1314  
+
+📧 Email: mandalamanojreddy28@gmail.com
 
 ---
 
 <h3 align="center">
-Building. Learning. Improving 🚀
+🚀 Building Products • Learning Continuously • Improving Every Day
 </h3>
