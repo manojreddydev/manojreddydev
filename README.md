@@ -117,23 +117,33 @@ Worked on the KUHEDU platform and contributed to:
 
 <div align="center">
 
-<img width="48%" 
-src="https://github-readme-stats.vercel.app/api?username=manojreddydev&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-<br/>
-
-<img width="48%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddydev&layout=compact&theme=tokyonight&hide_border=true" />
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojreddydev&theme=github_dark" 
+width="90%" />
 
 <br/>
 <br/>
 
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojreddydev&theme=tokyonight" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manojreddydev&theme=github_dark" 
+width="45%" />
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manojreddydev&theme=github_dark" 
+width="45%" />
+
+<br/>
+<br/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manojreddydev&theme=github_dark" 
+width="45%" />
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manojreddydev&theme=github_dark&utcOffset=5.5" 
+width="45%" />
 
 </div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
