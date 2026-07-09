@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mandala Manoj Reddy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=750&lines=AI+Developer;Full+Stack+Builder;LLM+%26+SaaS+Product+Engineer;Turning+Ideas+Into+Scalable+Products+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=800&lines=AI+Developer;Full+Stack+Builder;SaaS+%26+LLM+Product+Engineer;Building+Products+That+Scale+🚀" />
 
 <br/>
 
@@ -14,17 +14,29 @@
 
 ## 🚀 About Me
 
-I’m a builder at the intersection of artificial intelligence, modern web development, and product engineering.  
-My focus is on creating intelligent applications, scalable SaaS platforms, and AI-driven experiences that solve real-world problems.
+I am a passionate AI and Full Stack Developer focused on building intelligent products, scalable web systems, and AI-powered experiences that solve real-world problems.
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 💼 Full Stack Developer Intern at Quantum Wave
-- 🔧 Specializing in AI-powered products, automation, and full-stack development
-- 🌱 Continuously learning system design, scalable backend architecture, and advanced AI systems
+My work sits at the intersection of:
+- Artificial Intelligence
+- Modern Web Development
+- SaaS Product Engineering
+- Scalable Backend Architecture
+
+I enjoy turning ideas into polished products with strong user experience, clean architecture, and real business impact.
 
 ---
 
-## 🧠 Core Stack
+## 🧠 What I Build
+
+- AI-powered applications and intelligent automation
+- Full-stack SaaS products
+- Modern web platforms with strong UX and performance
+- Backend systems designed for scale and reliability
+- LLM-integrated solutions and workflow automation
+
+---
+
+## 🔧 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,tailwind,nodejs,fastapi,postgres,docker,git,github,vscode" />
@@ -51,39 +63,39 @@ My focus is on creating intelligent applications, scalable SaaS platforms, and A
 ## 🔥 Featured Projects
 
 ### RecoverFlow AI
-AI-powered SaaS platform focused on subscription recovery and customer lifecycle automation.
+AI-powered SaaS platform for subscription recovery and customer lifecycle automation.
 
-- Built intelligent workflow automation
-- Designed for modern SaaS dashboards and scalable APIs
-- Stack: React, TypeScript, Express, PostgreSQL
+- Built intelligent recovery workflows
+- Designed for scalable SaaS operations
+- Focused on automation, dashboards, and customer engagement
 
 ### SageCall AI
-An AI virtual receptionist platform for businesses that need smart, automated communication.
+An AI virtual receptionist platform for businesses.
 
-- AI-driven conversations and business automation
-- Appointment handling and intelligent responses
-- Stack: FastAPI, React, PostgreSQL, LLM APIs
+- AI-driven conversations
+- Appointment automation
+- Smart business responses and workflow handling
 
 ### FairGo
-A peer-to-peer vehicle rental marketplace designed for smooth booking and user interactions.
+A peer-to-peer vehicle rental marketplace platform.
 
-- Built for marketplace workflows and host-user engagement
-- Focused on a seamless digital experience
-- Stack: Flutter, FastAPI, PostgreSQL
+- Marketplace and booking workflows
+- User-friendly mobile-first experience
+- Scalable backend architecture
 
 ### KUHEDU
-A gamified exam portal developed during my internship at Quantum Wave.
+A gamified exam portal developed during my internship.
 
-- Online assessments with authentication and role-based access
-- Rewards, leaderboard, and engaging learning features
-- Stack: React, FastAPI, PostgreSQL
+- Online assessments and role-based access
+- Authentication, leaderboards, and rewards
+- Full-stack product development experience
 
 ### Suppio AI Resume Analyzer
-An AI-powered resume intelligence platform for smarter hiring workflows.
+An AI-powered resume intelligence platform.
 
-- Resume parsing and document intelligence
-- AI-based insights and feedback generation
-- Stack: FastAPI, React, OCR, LLM APIs
+- Resume parsing and document analysis
+- LLM-based insights and smart evaluation
+- Built for modern hiring workflows
 
 ---
 
@@ -92,12 +104,12 @@ An AI-powered resume intelligence platform for smarter hiring workflows.
 ### Full Stack Developer Intern
 Quantum Wave
 
-Contributed to the development of KUHEDU by working on:
-- Full-stack application features
-- REST API integrations
-- Database-driven functionality
-- Authentication and role-based workflows
-- Product enhancement and feature implementation
+Worked on the KUHEDU platform and contributed to:
+- Full-stack feature development
+- API integrations
+- Authentication and role-based flows
+- Database-driven application logic
+- Product improvements and implementation
 
 ---
 
