@@ -2,306 +2,139 @@
 
 # 👋 Hi, I'm Mandala Manoj Reddy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&lines=AI+%26+Full+Stack+Developer;Building+AI-Powered+SaaS+Products;React+%7C+FastAPI+%7C+PostgreSQL+%7C+LLMs;Turning+Ideas+Into+Real+Products+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=750&lines=AI+Developer;Full+Stack+Builder;LLM+%26+SaaS+Product+Engineer;Turning+Ideas+Into+Scalable+Products+🚀" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manojreddydev&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=manojreddydev&style=for-the-badge&color=0e75b6" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-```yaml
-name: Mandala Manoj Reddy
-role: AI & Full Stack Developer
+I’m a builder at the intersection of artificial intelligence, modern web development, and product engineering.  
+My focus is on creating intelligent applications, scalable SaaS platforms, and AI-driven experiences that solve real-world problems.
 
-education:
-  B.Tech Artificial Intelligence & Machine Learning
-
-experience:
-  Full Stack Developer Intern @ Quantum Wave
-
-focus:
-  - AI Powered Applications
-  - SaaS Products
-  - Full Stack Development
-  - AI Agents
-
-currently_learning:
-  - System Design
-  - Scalable Backend Engineering
-  - Advanced AI Applications
-```
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💼 Full Stack Developer Intern at Quantum Wave
+- 🔧 Specializing in AI-powered products, automation, and full-stack development
+- 🌱 Continuously learning system design, scalable backend architecture, and advanced AI systems
 
 ---
 
-# 🧠 Tech Arsenal
+## 🧠 Core Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,tailwind,nodejs,fastapi,postgres,docker,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,tailwind,nodejs,fastapi,postgres,docker,git,github,vscode" />
 </p>
 
-<br/>
+### Frontend
+- React.js
+- TypeScript
+- Tailwind CSS
 
-<table align="center">
+### Backend
+- FastAPI
+- Express.js
+- REST APIs
 
-<tr>
-
-<td align="center">
-
-**Frontend**
-
-React.js  
-Tailwind CSS  
-TypeScript  
-
-</td>
-
-
-<td align="center">
-
-**Backend**
-
-FastAPI  
-Express.js  
-REST APIs  
-
-</td>
-
-
-<td align="center">
-
-**AI**
-
-LLM APIs  
-AI Agents  
-OCR  
-
-</td>
-
-
-<td align="center">
-
-**Database**
-
-PostgreSQL  
-
-</td>
-
-</tr>
-
-</table>
+### AI & Data
+- LLM APIs
+- AI Agents
+- OCR
+- PostgreSQL
 
 ---
 
-# 🚀 Featured Products
+## 🔥 Featured Projects
 
-<table>
+### RecoverFlow AI
+AI-powered SaaS platform focused on subscription recovery and customer lifecycle automation.
 
-<tr>
+- Built intelligent workflow automation
+- Designed for modern SaaS dashboards and scalable APIs
+- Stack: React, TypeScript, Express, PostgreSQL
 
-<td width="50%">
+### SageCall AI
+An AI virtual receptionist platform for businesses that need smart, automated communication.
 
+- AI-driven conversations and business automation
+- Appointment handling and intelligent responses
+- Stack: FastAPI, React, PostgreSQL, LLM APIs
 
-## 🔥 RecoverFlow AI
+### FairGo
+A peer-to-peer vehicle rental marketplace designed for smooth booking and user interactions.
 
-AI-powered SaaS platform for subscription recovery automation.
+- Built for marketplace workflows and host-user engagement
+- Focused on a seamless digital experience
+- Stack: Flutter, FastAPI, PostgreSQL
 
-**Stack**
+### KUHEDU
+A gamified exam portal developed during my internship at Quantum Wave.
 
-`React` `TypeScript` `Express` `PostgreSQL`
+- Online assessments with authentication and role-based access
+- Rewards, leaderboard, and engaging learning features
+- Stack: React, FastAPI, PostgreSQL
 
-### Features
+### Suppio AI Resume Analyzer
+An AI-powered resume intelligence platform for smarter hiring workflows.
 
-✔ AI recovery workflows  
-✔ Customer automation  
-✔ SaaS dashboard  
-✔ Scalable APIs  
-
-
-</td>
-
-
-<td width="50%">
-
-
-## 🤖 SageCall AI
-
-AI virtual receptionist platform for businesses.
-
-**Stack**
-
-`FastAPI` `React` `PostgreSQL` `LLM APIs`
-
-### Features
-
-✔ AI conversations  
-✔ Appointment automation  
-✔ Business dashboard  
-✔ Smart responses  
-
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-
-## 🚗 FairGo
-
-Peer-to-peer vehicle rental marketplace platform.
-
-**Stack**
-
-`Flutter` `FastAPI` `PostgreSQL`
-
-### Features
-
-✔ Vehicle marketplace  
-✔ Booking system  
-✔ Host workflows  
-✔ Mobile experience  
-
-
-</td>
-
-
-<td width="50%">
-
-
-## 🎓 KUHEDU
-
-Gamified Exam Portal developed during Quantum Wave Internship.
-
-**Stack**
-
-`React` `FastAPI` `PostgreSQL`
-
-### Features
-
-✔ Online exams  
-✔ Authentication  
-✔ Role management  
-✔ Rewards & leaderboard  
-
-
-</td>
-
-</tr>
-
-</table>
-
-
-<table>
-
-<tr>
-
-<td>
-
-
-## 📄 Suppio AI Resume Analyzer
-
-AI-powered resume intelligence platform.
-
-**Stack**
-
-`FastAPI` `React` `OCR` `LLM APIs`
-
-### Features
-
-✔ Resume parsing  
-✔ AI analysis  
-✔ Document processing  
-✔ Smart feedback  
-
-
-</td>
-
-</tr>
-
-</table>
-
+- Resume parsing and document intelligence
+- AI-based insights and feedback generation
+- Stack: FastAPI, React, OCR, LLM APIs
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
+### Full Stack Developer Intern
+Quantum Wave
 
-## Full Stack Developer Intern
-
-### Quantum Wave
-
-
-Worked on **KUHEDU Gamified Exam Portal**
-
-- Developed full-stack features
-- Built REST API integrations
-- Worked with database systems
-- Implemented authentication workflows
-- Improved application functionality
-
+Contributed to the development of KUHEDU by working on:
+- Full-stack application features
+- REST API integrations
+- Database-driven functionality
+- Authentication and role-based workflows
+- Product enhancement and feature implementation
 
 ---
 
-# 📊 GitHub Analytics
-
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manojreddydev&show_icons=true&theme=tokyonight" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manojreddydev&show_icons=true&theme=tokyonight"/>
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manojreddydev&theme=tokyonight"/>
-
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manojreddydev&theme=tokyonight" />
 
 <br/>
 
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddydev&layout=compact&theme=tokyonight"/>
-
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddydev&layout=compact&theme=tokyonight" />
 
 </div>
 
-
 ---
 
-# 🌐 Connect With Me
-
+## 🌐 Connect With Me
 
 <div align="center">
-
 
 <a href="https://www.linkedin.com/in/manoj-reddy-9400b1314">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
 
 <a href="mailto:mandalamanojreddy16@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-
 </div>
-
 
 ---
 
 <div align="center">
 
-## 🚀 Building Products • Learning Every Day • Improving Continuously
+## 🚀 Building intelligent products • Designing scalable systems • Shipping with purpose
 
 </div>
