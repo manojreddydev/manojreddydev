@@ -113,21 +113,26 @@ Worked on the KUHEDU platform and contributed to:
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manojreddydev&show_icons=true&theme=tokyonight" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manojreddydev&theme=tokyonight" />
+<img width="48%" 
+src="https://github-readme-stats.vercel.app/api?username=manojreddydev&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/>
+<br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddydev&layout=compact&theme=tokyonight" />
+<img width="48%" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddydev&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+<br/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojreddydev&theme=tokyonight" />
 
 </div>
-
----
 
 ## 🌐 Connect With Me
 
